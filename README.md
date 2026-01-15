@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center"> UX/UI | Full Stack Python Developer 👋</h1>
+<h1 align="center">Full Stack Python Developer 👋</h1>
 
 ###
 
