@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="cover.jpg"/>
+</div>
+
 <h1 align="center">Hi, I'm Mahad Haroon</h1>
 
 <p align="center">
